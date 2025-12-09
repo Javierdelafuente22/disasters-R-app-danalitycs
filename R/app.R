@@ -1,5 +1,3 @@
-# app.R
-
 # Load the necessary packages
 library(shiny)
 library(leaflet) 
