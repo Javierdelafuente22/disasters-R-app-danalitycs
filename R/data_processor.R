@@ -8,3 +8,5 @@ read_all_data <- function() {
   names(data) <- tools::file_path_sans_ext(basename(files))
   data
 }
+
+print(read_all_data())
